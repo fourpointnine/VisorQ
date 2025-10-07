@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Qt Creator
 *.pro.user
 *.pro.user.*
@@ -16,3 +17,46 @@ moc_*.cpp
 ui_*.h
 qrc_*.cpp
 Makefile*
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+>>>>>>> 8cf4354b5a73a50a559095ee5395e2019999cc91
